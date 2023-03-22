@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AddApp</string>
+    <string name="editText1">数字を入力(1)</string>
+    <string name="editText2">数字を入力(2)</string>
+    <string name="btnAdd">足す</string>
+    <string name="tvAns">答え</string>
+    <string name="btnClear">クリア</string>
+</resources>
